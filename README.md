@@ -80,8 +80,7 @@ This project demonstrates:
 - **Algorithm Implementation:** Sorting and ranking algorithms
 - **Memory Management:** Efficient use of maps and slices
 
-**Difficulty:** ⭐⭐ Beginner-Intermediate - File I/O and data processing
-
 ---
 
 **Author:** IAmSotiris
+
