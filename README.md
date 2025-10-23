@@ -1,6 +1,10 @@
-# 📊 File Stats Reader (Go)
+# File Stats Reader — Text analysis and word frequency in Go
 
 A file analysis tool that reads text files and generates detailed statistics including word frequency analysis. Demonstrates file I/O, text processing, data structures, and sorting algorithms in Go.
+
+Quick links:
+- Entrypoint: `filestats.go`
+- Sample files: `files/`
 
 ---
 
@@ -33,7 +37,7 @@ A CLI tool that analyzes text files to extract statistics like line count, word 
 
 ## 🛠️ Usage
 
-```sh
+```powershell
 # Analyze single file
 go run filestats.go file1.txt
 
@@ -55,6 +59,18 @@ go run filestats.go file1.txt file2.txt
 ```
 
 ---
+
+## Folder map
+
+- `filestats.go`: CLI, file parsing, stats, and histogram
+- `files/`: Example text files
+
+
+## Next steps (ideas)
+
+- Add stop‑word filtering and stemming
+- Add per‑file vs aggregate statistics modes
+- Output results as JSON/CSV
 
 ## 🎯 Learning Objectives
 
